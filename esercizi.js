@@ -19,5 +19,5 @@ con una ricetta specifica per trasformarli in un piatto finale */
 // Una variabile è un dato specifico fornito ed etichettato, uno degli ingredienti della ricetta
 // null svuota il campo, rende vuota la variabile è un parametro definito vuoto
 // undefined invece è un parametro che non è ancora stato dichiarato definito
-let sugarTop = 0
+let sugarTop = 05
 console.log(sugarTop)
