@@ -1,14 +1,14 @@
-let sugarTop = 80
-let sugarTop = null
+let sugarTop1 = 80
+let sugarTop2 = null
 
-let burro =120
+let burro = 120
 let zucchero = 80
 let farina = 260
 
 let ciotolaMedia = burro + zucchero
-let ciotolaMedia = ciotolaMedia + farina
+let ciotolaMedia2 = ciotolaMedia + farina
 
-ciotolaMedia += farina
+// ciotolaMedia += farina
 // x += y is equivalent to x = x + y
 
 /* Un algoritmo è un meccanismo che tramite delle istruzioni ben precise
@@ -19,5 +19,5 @@ con una ricetta specifica per trasformarli in un piatto finale */
 // Una variabile è un dato specifico fornito ed etichettato, uno degli ingredienti della ricetta
 // null svuota il campo, rende vuota la variabile è un parametro definito vuoto
 // undefined invece è un parametro che non è ancora stato dichiarato definito
-
-console.log(sugarTop);
+let sugarTop = 0
+console.log(sugarTop)
